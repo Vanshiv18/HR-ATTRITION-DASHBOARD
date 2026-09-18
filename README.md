@@ -6,7 +6,9 @@
 ## 🔗 Live Power BI Dashboard
 
 👉 **[Open the Interactive HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDE0Y2I4YzctZWIwYy00YjkzLWJlMTktYjYwNjIzMGViZTM3IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)**
+## 📸 Dashboard Preview
 
+![HR Attrition Dashboard](dashboard.png)
 ---
 
 ## 📌 Project Overview
